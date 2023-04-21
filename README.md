@@ -15,5 +15,8 @@ Step 2:
 Output:
 
 ```
-Path: [New York, Chicago, Los Angeles]
+Shortest path from San Francisco to Miami: 
+San Francisco 
+New York 
+Miami 
 ```
