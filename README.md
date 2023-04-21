@@ -1,6 +1,6 @@
 <h1>cop3530</h1>
 
-<p>Graph Data structure to plotr a path of a city</p>
+<p>Graph Data structure to plot a path of a city</p>
 
 Steps to run this code:
 
